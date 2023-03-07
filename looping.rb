@@ -1,5 +1,3 @@
-
-
 require 'pry'
 
 def happy_new_year
@@ -48,4 +46,3 @@ def reverse_string(str)
   end
     reversed
 end
-Footer
